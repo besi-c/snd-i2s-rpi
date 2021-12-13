@@ -1,0 +1,5 @@
+snd-i2s-rpi-dkms (0.1.0) stable; urgency=low
+
+  * Adapted from automatic packaging by DKMS.
+
+ -- Penn Bauman <pcb8gb@virginia.edu>  Mon, 13 Dec 2021 02:49:53 -0500
