@@ -8,6 +8,6 @@ Standards-Version: 4.3.0
 Package: snd-i2s-rpi-dkms
 Architecture: armhf
 Provides: snd-i2s-rpi-modules (= 0.1.0)
-Depends: dkms (>= 1.95), ${misc:Depends}
+Depends: dkms (>= 1.95), raspberrypi-kernel-headers, ${misc:Depends}
 Description: snd-i2s-rpi driver in DKMS format.
  Driver for the Adafruit I2S MEMS Microphone
